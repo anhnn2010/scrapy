@@ -1,0 +1,82 @@
+# -*- coding: utf-8 -*-
+import scrapy
+from scrapy_splash import SplashRequest
+
+
+class FbrefSpider(scrapy.Spider):
+    name = 'fbref'
+    start_urls = ['https://fbref.com/en/comps/9/stats/Premier-League-Stats']
+
+    def start_requests(self):
+        for url in self.start_urls:
+            # yield SplashRequest(url, callback=self.parse, dont_filter=True)
+            yield SplashRequest(url, callback=self.parse)
+
+    def parse(self, response):
+
+        # list of all rows containing players
+        list_rows = response.xpath("//table/caption[text() = 'Player Standard Stats Table']/parent::*/tbody/tr[not(@class)]")
+        number = 100    # just collect first 100 players
+        list_select = list_rows[0:number]
+
+        # rows = list_rows[0]
+        for row in list_select:
+            # if row.xpath("./@class"):
+            #     continue
+            # else:
+            href = row.xpath("./td[@data-stat = 'player']/a").attrib['href']
+            # self.log('ANH' + href)
+            url = response.urljoin(href)    # url to each players
+            # yield scrapy.Request(url=url, callback=self.parse_player, dont_filter=True)
+            yield scrapy.Request(url=url, callback=self.parse_player)
+
+    def parse_player(self, response):
+
+        # self.log('PLAYER ' + response.url)
+
+        # list all seasons
+        # list_seasons = list(set(response.xpath("//div[@id = 'div_stats_standard_ks_dom_lg']/table/tbody/tr")))
+        list_seasons = response.xpath("//div[@id = 'div_stats_standard_ks_dom_lg']/table/tbody/tr")
+        last_seasons = list_seasons[-3:]  # just get last 3 seasons
+        # season = last_seasons[0]
+        for season in last_seasons:
+            href = season.xpath(".//td[@data-stat = 'matches']/a").attrib['href']
+            url = response.urljoin(href)    # url to each season
+            # yield scrapy.Request(url=url, callback=self.parse_summary, dont_filter=True)
+            yield scrapy.Request(url=url, callback=self.parse_summary)
+
+    def parse_summary(self, response):
+
+        # self.log('HAHA ' + response.url)
+        url_split = response.url.split('/')
+        season = url_split[-3:-2]
+
+        # name of the player
+        name =  response.xpath("//h1/text()").get()
+
+        # list of all matches in a season
+        list_rows = response.xpath("//table[@id = 'ks_matchlogs_all']//tbody/tr[not(@class)]")
+        # row = list_rows[0]
+        for row in list_rows:
+            # if row.xpath("./@class"):
+            #     continue
+            # else:
+            date = row.xpath("./th/a/text()").get()
+            comp = row.xpath("./td[@data-stat = 'comp']/a/text()").get()
+            rnd = row.xpath("./td[@data-stat = 'round']/a/text()").get()
+            venue = row.xpath("./td[@data-stat = 'venue']/text()").get()
+            result = row.xpath("./td[@data-stat = 'result']/text()").get()
+            squad = row.xpath("./td[@data-stat = 'squad']/a/text()").get()
+            opponent = row.xpath("./td[@data-stat = 'opponent']/a/text()").get()
+
+            yield {
+                'Name': name,
+                'Season': season,
+                'Date': date,
+                'Competition': comp,
+                'Round': rnd,
+                'Venue': venue,
+                'Result': result,
+                'Squad': squad,
+                'Opponent': opponent
+            }
