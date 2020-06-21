@@ -1,0 +1,23 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: fbref",
+            "type": "python",
+            "request": "launch",
+            // ${workspaceFolder} is the root of the opened directory (working directory opend by VS Code)
+            "program": "${workspaceFolder}/.venv/bin/scrapy",
+            "args": [
+                "crawl",
+                "fbref"
+            ],
+            // need to run spider in the top directory of scrapy project
+            "cwd": "${workspaceFolder}/fbref",
+            // "console": "internalConsole",
+            "console": "integratedTerminal",
+        },
+    ]
+}
