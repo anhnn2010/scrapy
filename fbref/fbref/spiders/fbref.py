@@ -40,6 +40,8 @@ class FbrefSpider(scrapy.Spider):
                 href = a.attrib['href']
                 url = response.urljoin(href)    # url to each season
                 yield scrapy.Request(url=url, callback=self.parse_summary)
+            else:
+                self.log(f'FIXME!!! There is no matching element for the season {s}')
 
     def parse_summary(self, response):
 
