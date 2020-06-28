@@ -5,17 +5,30 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: fbref",
+            "name": "Python: Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
+        {
+            // "name": "Python: fbref",
+            "name": "Python: csrbox",
             "type": "python",
             "request": "launch",
             // ${workspaceFolder} is the root of the opened directory (working directory opend by VS Code)
             "program": "${workspaceFolder}/.venv/bin/scrapy",
             "args": [
                 "crawl",
-                "fbref"
+                // "fbref",
+                // "csrbox",
+                // "csrbox_4",
+                "csrbox_5",
+                // "tour"
             ],
             // need to run spider in the top directory of scrapy project
-            "cwd": "${workspaceFolder}/fbref",
+            // "cwd": "${workspaceFolder}/fbref",
+            "cwd": "${workspaceFolder}/csrbox",
             // "console": "internalConsole",
             "console": "integratedTerminal",
         },
