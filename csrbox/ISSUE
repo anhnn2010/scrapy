@@ -1,0 +1,24 @@
+1. website is infinitve scrolling
+https://csrbox.org/moreCompanyProjects.php for new items
+
+- try POST but cannot get the page
+    + https://stackoverflow.com/questions/25583414/working-with-post-request-to-load-more-articles-with-scrapy-python
+- some suggests from searching:
+    + from https://www.programmersought.com/article/2251414020/;jsessionid=D526176A63F59AC8464CD29D74B01557
+        _ USe Scrapy framework combines with Spynner ???
+
+Some tries:
+- scrapy-selenium, use Selenium request
+- develope Downloader Middleware using selenium, by this case, the request is heavy and long
+- finnaly found the way: scrapy-splash and use lua script for scrolling down (but encounting issue)
+
+2. scrolling 13 pages, if we increase one more page, there is error and no result
+2020-06-25 14:42:53 [scrapy.downloadermiddlewares.retry] DEBUG: Retrying <GET https://csrbox.org/India-list-CSR-projects-India via http://127.0.0.1:8050/execute> (failed 1 times): 504 Gateway Time-out
+
+Try:
+- There are many items, cannot scroll all before return the lua script. Try to split the scrolling to each 10 pages, but it  seems cannot jump to the parse callback again. Do not know why.
+
+3. Try to use POST request, still not know how to do
+- Found out another link for GET https://csrbox.org/moreCompanyProjectsByFilter.php
+
+https://www.quora.com/How-do-I-scrape-a-page-which-uses-AJAX-for-pagination-Infinite-scrolling-in-Scrapy
