@@ -13,6 +13,23 @@
         },
         {
             // "name": "Python: fbref",
+            "name": "Python: capterra",
+            "type": "python",
+            "request": "launch",
+            // ${workspaceFolder} is the root of the opened directory (working directory opend by VS Code)
+            "program": "${workspaceFolder}/.venv/bin/scrapy",
+            "args": [
+                "crawl",
+                "capterra_1",
+            ],
+            // need to run spider in the top directory of scrapy project
+            // "cwd": "${workspaceFolder}/fbref",
+            "cwd": "${workspaceFolder}/capterra",
+            // "console": "internalConsole",
+            "console": "integratedTerminal",
+        },
+        {
+            // "name": "Python: fbref",
             "name": "Python: csrbox",
             "type": "python",
             "request": "launch",

@@ -1,0 +1,9 @@
+1. Code 403 :))
+2020-06-28 21:00:29 [scrapy.core.engine] DEBUG: Crawled (403) <GET https://www.capterra.com/categories> (referer: None)
+
+Solution: Add User-Agent:
+scrapy shell -s USER_AGENT='Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.131 Safari/537.36' https://www.capterra.com/categories
+
+2. Show more button in https://www.capterra.com/accounting-software/
+I did not see js or something to get information
+There is no xhr !!!
