@@ -1,0 +1,8 @@
+1. This website has robot.txt
+2020-07-01 14:40:49 [scrapy.core.engine] DEBUG: Crawled (200) <GET https://www.caring.com/robots.txt> (referer: None)
+2020-07-01 14:40:49 [protego] DEBUG: Rule at line 1 without any user agent to enforce it on.
+
+2. Require to output many sheets of an excel
+- Try to export to many CSV files, then copy/paste manual
+- Try some lib then write to excel
+

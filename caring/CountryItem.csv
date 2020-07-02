@@ -1,0 +1,2530 @@
+state,country,total
+Oregon,Baker County,4
+Oregon,Benton County,14
+Oregon,Clackamas County,243
+Oregon,Clatsop County,16
+Oregon,Columbia County,29
+Oregon,Coos County,37
+Oregon,Crook County,11
+Oregon,Curry County,29
+Oregon,Deschutes County,69
+Oregon,Douglas County,18
+Oregon,Hood River County,12
+Oregon,Jackson County,66
+Oregon,Jefferson County,131
+Oregon,Josephine County,41
+Oregon,Klamath County,18
+Oregon,Lake County,168
+Oregon,Lane County,159
+Oregon,Lincoln County,15
+Oregon,Linn County,118
+Oregon,Malheur County,17
+Oregon,Marion County,5
+Oregon,Morrow County,18
+Oregon,Multnomah County,481
+Oregon,Polk County,18
+Oregon,Tillamook County,12
+Oregon,Umatilla County,33
+Oregon,Wasco County,16
+Oregon,Washington County,26
+Oregon,Yamhill County,51
+New Hampshire,Belknap County,36
+New Hampshire,Carroll County,6
+New Hampshire,Cheshire County,41
+New Hampshire,Coos County,37
+New Hampshire,Grafton County,59
+New Hampshire,Hillsborough County,539
+New Hampshire,Merrimack County,76
+New Hampshire,Rockingham County,15
+New Hampshire,Strafford County,66
+New Hampshire,Sullivan County,68
+North Dakota,Barnes County,12
+North Dakota,Burleigh County,39
+North Dakota,Cass County,15
+North Dakota,Grand Forks County,39
+North Dakota,Morton County,20
+North Dakota,Richland County,132
+North Dakota,Stark County,177
+North Dakota,Traill County,10
+New Mexico,Bernalillo County,278
+New Mexico,Chaves County,33
+New Mexico,Curry County,29
+New Mexico,De Baca County,1
+New Mexico,Dona Ana County,64
+New Mexico,Eddy County,40
+New Mexico,Grant County,33
+New Mexico,Lea County,34
+New Mexico,Lincoln County,15
+New Mexico,Luna County,16
+New Mexico,Mckinley County,19
+New Mexico,Mora County,7
+New Mexico,Otero County,11
+New Mexico,Quay County,8
+New Mexico,Rio Arriba County,6
+New Mexico,Roosevelt County,4
+New Mexico,San Juan County,31
+New Mexico,San Miguel County,13
+New Mexico,Sandoval County,39
+New Mexico,Santa Fe County,48
+New Mexico,Taos County,8
+New Mexico,Torrance County,1
+New Mexico,Valencia County,13
+Nevada,Carson City,24
+Nevada,Churchill County,10
+Nevada,Clark County,243
+Nevada,Douglas County,18
+Nevada,Elko County,10
+Nevada,Humboldt County,36
+Nevada,Lincoln County,15
+Nevada,Lyon County,7
+Nevada,Nye County,8
+Nevada,Storey County,0
+Nevada,Washoe County,124
+Wyoming,Albany County,17
+Wyoming,Converse County,10
+Wyoming,Crook County,11
+Wyoming,Goshen County,10
+Wyoming,Laramie County,34
+Wyoming,Natrona County,38
+Wyoming,Park County,17
+Wyoming,Uinta County,13
+Montana,Big Horn County,4
+Montana,Carbon County,9
+Montana,Flathead County,47
+Montana,Gallatin County,6
+Montana,Lake County,12
+Nebraska,Adams County,27
+Nebraska,Buffalo County,27
+Nebraska,Burt County,4
+Nebraska,Butler County,131
+Nebraska,Cass County,15
+Nebraska,Cheyenne County,9
+Nebraska,Colfax County,5
+Nebraska,Cuming County,9
+Montana,Lewis And Clark County,33
+Montana,Madison County,81
+Montana,Missoula County,49
+Montana,Park County,17
+Montana,Ravalli County,20
+Montana,Rosebud County,2
+Montana,Sanders County,6
+Montana,Silver Bow County,21
+Montana,Stillwater County,2
+Montana,Sweet Grass County,2
+Montana,Treasure County,0
+Montana,Yellowstone County,82
+Nebraska,Dakota County,14
+Nebraska,Dodge County,29
+Nebraska,Douglas County,18
+Nebraska,Gage County,22
+Nebraska,Hall County,2
+Nebraska,Holt County,12
+Nebraska,Jefferson County,131
+Nebraska,Lancaster County,21
+Nebraska,Lincoln County,15
+Nebraska,Madison County,4
+Nebraska,Otoe County,11
+Nebraska,Platte County,8
+Nebraska,Saline County,5
+Nebraska,Sarpy County,62
+Nebraska,Saunders County,13
+Nebraska,Scotts Bluff County,23
+Nebraska,Seward County,15
+Nebraska,Thayer County,5
+Nebraska,Washington County,26
+Nebraska,Wayne County,707
+Nebraska,York County,84
+Mississippi,Alcorn County,16
+Mississippi,Attala County,6
+Mississippi,Benton County,14
+Oklahoma,Adair County,6
+Oklahoma,Alfalfa County,3
+Oklahoma,Atoka County,3
+Mississippi,Bolivar County,28
+Mississippi,Calhoun County,52
+Mississippi,Chickasaw County,9
+Mississippi,Claiborne County,11
+Mississippi,Clarke County,12
+Mississippi,Clay County,5
+Mississippi,Coahoma County,20
+Mississippi,Copiah County,7
+Mississippi,Covington County,13
+Mississippi,DeSoto County,32
+Mississippi,Forrest County,56
+Mississippi,George County,4
+Oklahoma,Beaver County,71
+Oklahoma,Beckham County,22
+Oklahoma,Blaine County,5
+Oklahoma,Bryan County,10
+Oklahoma,Caddo County,8
+Oklahoma,Canadian County,30
+Oklahoma,Carter County,15
+Oklahoma,Cherokee County,17
+Oklahoma,Choctaw County,16
+Oklahoma,Cimarron County,0
+Oklahoma,Cleveland County,99
+Oklahoma,Coal County,2
+Oklahoma,Comanche County,10
+Oklahoma,Cotton County,4
+Oklahoma,Craig County,19
+Mississippi,Greene County,13
+Mississippi,Grenada County,15
+Mississippi,Hancock County,24
+Mississippi,Harrison County,20
+Mississippi,Hinds County,95
+Mississippi,Holmes County,5
+Mississippi,Humphreys County,8
+Mississippi,Issaquena County,1
+Mississippi,Itawamba County,11
+Mississippi,Jackson County,66
+Mississippi,Jasper County,14
+Mississippi,Jefferson County,131
+Mississippi,Jefferson Davis County,2
+Mississippi,Jones County,8
+Mississippi,Kemper County,3
+Mississippi,Lafayette County,6
+North Carolina,Alamance County,95
+North Carolina,Alexander County,9
+Oklahoma,Creek County,20
+Oklahoma,Custer County,12
+Oklahoma,Delaware County,64
+Oklahoma,Dewey County,5
+Oklahoma,Ellis County,47
+Oklahoma,Garfield County,35
+Oklahoma,Garvin County,19
+Oklahoma,Grady County,22
+Oklahoma,Grant County,14
+Oklahoma,Greer County,4
+Oklahoma,Harmon County,3
+Mississippi,Lamar County,30
+Mississippi,Lauderdale County,35
+Mississippi,Lawrence County,55
+Mississippi,Leake County,7
+Mississippi,Lee County,7
+Mississippi,Lincoln County,15
+Mississippi,Lowndes County,20
+Mississippi,Madison County,4
+Mississippi,Marion County,5
+Mississippi,Marshall County,22
+Mississippi,Monroe County,52
+Mississippi,Montgomery County,26
+Mississippi,Neshoba County,16
+North Carolina,Alleghany County,12
+North Carolina,Anson County,13
+North Carolina,Ashe County,14
+North Carolina,Avery County,10
+North Carolina,Beaufort County,75
+North Carolina,Bertie County,11
+North Carolina,Bladen County,25
+North Carolina,Brunswick County,22
+North Carolina,Buncombe County,124
+North Carolina,Burke County,8
+North Carolina,Cabarrus County,62
+North Carolina,Caldwell County,12
+North Carolina,Carteret County,28
+North Carolina,Caswell County,10
+North Carolina,Catawba County,59
+North Carolina,Chatham County,112
+Oklahoma,Harper County,2
+Oklahoma,Haskell County,3
+Oklahoma,Hughes County,6
+Oklahoma,Jackson County,66
+Oklahoma,Jefferson County,131
+Oklahoma,Johnston County,12
+Oklahoma,Kay County,27
+Oklahoma,Kingfisher County,11
+Oklahoma,Kiowa County,14
+Oklahoma,Latimer County,9
+Oklahoma,Le Flore County,28
+Oklahoma,Lincoln County,15
+Oklahoma,Logan County,29
+Oklahoma,Love County,4
+New Jersey,Atlantic County,104
+New Jersey,Bergen County,262
+Mississippi,Newton County,5
+Mississippi,Noxubee County,2
+Mississippi,Oktibbeha County,14
+Mississippi,Panola County,10
+Mississippi,Pearl River County,9
+Mississippi,Perry County,12
+Mississippi,Pike County,13
+Mississippi,Pontotoc County,10
+Mississippi,Prentiss County,7
+Mississippi,Quitman County,2
+Mississippi,Rankin County,34
+North Carolina,Cherokee County,17
+North Carolina,Chowan County,10
+North Carolina,Clay County,5
+North Carolina,Cleveland County,99
+North Carolina,Columbus County,25
+North Carolina,Craven County,49
+North Carolina,Cumberland County,153
+Oklahoma,Major County,5
+Oklahoma,Marshall County,22
+Oklahoma,Mayes County,19
+Oklahoma,Mcclain County,9
+Oklahoma,Mccurtain County,19
+Oklahoma,Mcintosh County,8
+Oklahoma,Murray County,7
+Oklahoma,Muskogee County,52
+Oklahoma,Noble County,9
+Oklahoma,Nowata County,4
+Oklahoma,Okfuskee County,6
+Oklahoma,Oklahoma County,345
+Oklahoma,Okmulgee County,23
+Oklahoma,Osage County,5
+Oklahoma,Ottawa County,89
+Oklahoma,Pawnee County,2
+New Jersey,Burlington County,184
+New Jersey,Camden County,169
+New Jersey,Cape May County,41
+New Jersey,Cumberland County,153
+New Jersey,Essex County,320
+New Jersey,Gloucester County,73
+New Jersey,Hudson County,119
+New Jersey,Hunterdon County,31
+New Jersey,Mercer County,94
+New Jersey,Middlesex County,178
+New Jersey,Monmouth County,275
+New Jersey,Morris County,6
+Mississippi,Scott County,73
+Mississippi,Sharkey County,2
+Mississippi,Simpson County,10
+Mississippi,Smith County,115
+Mississippi,Stone County,6
+Mississippi,Sunflower County,21
+Mississippi,Tate County,4
+Mississippi,Tippah County,7
+Mississippi,Tishomingo County,8
+Mississippi,Tunica County,4
+Mississippi,Union County,7
+Mississippi,Walthall County,5
+Mississippi,Warren County,26
+Mississippi,Washington County,26
+Mississippi,Wayne County,707
+North Carolina,Dare County,9
+North Carolina,Davidson County,212
+North Carolina,Davie County,15
+North Carolina,Duplin County,25
+North Carolina,Durham County,100
+North Carolina,Edgecombe County,37
+North Carolina,Forsyth County,34
+North Carolina,Franklin County,13
+North Carolina,Gaston County,80
+North Carolina,Gates County,4
+North Carolina,Granville County,13
+North Carolina,Greene County,13
+Oklahoma,Payne County,27
+Oklahoma,Pittsburg County,37
+Oklahoma,Pontotoc County,10
+Oklahoma,Pottawatomie County,30
+Oklahoma,Pushmataha County,9
+Oklahoma,Roger Mills County,0
+Oklahoma,Rogers County,18
+Oklahoma,Seminole County,97
+Oklahoma,Sequoyah County,29
+Oklahoma,Stephens County,4
+Oklahoma,Texas County,13
+Oklahoma,Tillman County,5
+Oklahoma,Tulsa County,292
+Oklahoma,Wagoner County,7
+Oklahoma,Washington County,26
+New Jersey,Ocean County,199
+New Jersey,Passaic County,138
+New Jersey,Salem County,26
+New Jersey,Somerset County,15
+New Jersey,Sussex County,35
+New Jersey,Union County,7
+New Jersey,Warren County,26
+Mississippi,Webster County,5
+Mississippi,Winston County,9
+Mississippi,Yalobusha County,2
+Mississippi,Yazoo County,13
+North Carolina,Guilford County,196
+North Carolina,Halifax County,26
+North Carolina,Harnett County,38
+North Carolina,Haywood County,7
+North Carolina,Henderson County,31
+North Carolina,Hertford County,13
+North Carolina,Hoke County,11
+North Carolina,Hyde County,3
+North Carolina,Iredell County,62
+North Carolina,Jackson County,66
+North Carolina,Johnston County,12
+North Carolina,Jones County,8
+North Carolina,Lee County,7
+North Carolina,Lenoir County,43
+North Carolina,Lincoln County,15
+Oklahoma,Washita County,3
+Oklahoma,Woods County,6
+Oklahoma,Woodward County,13
+North Carolina,Macon County,5
+North Carolina,Madison County,4
+North Carolina,Martin County,6
+North Carolina,Mcdowell County,23
+North Carolina,Mecklenburg County,304
+North Carolina,Mitchell County,5
+North Carolina,Montgomery County,26
+North Carolina,Moore County,10
+North Carolina,Nash County,29
+North Carolina,New Hanover County,78
+North Carolina,Northampton County,140
+North Carolina,Onslow County,33
+North Carolina,Orange County,75
+North Carolina,Pamlico County,4
+North Carolina,Pasquotank County,20
+North Carolina,Pender County,14
+North Carolina,Perquimans County,10
+North Carolina,Person County,20
+North Carolina,Pitt County,57
+North Carolina,Polk County,18
+North Carolina,Randolph County,8
+North Carolina,Richmond County,72
+North Carolina,Robeson County,56
+North Carolina,Rockingham County,131
+North Carolina,Rowan County,55
+North Carolina,Rutherford County,67
+North Carolina,Sampson County,19
+North Carolina,Scotland County,20
+North Carolina,Stanly County,25
+North Carolina,Stokes County,17
+North Carolina,Surry County,0
+North Carolina,Swain County,4
+North Carolina,Transylvania County,16
+North Carolina,Tyrrell County,2
+North Carolina,Union County,7
+North Carolina,Vance County,21
+North Carolina,Wake County,301
+North Carolina,Warren County,26
+North Carolina,Washington County,26
+North Carolina,Watauga County,18
+North Carolina,Wayne County,707
+North Carolina,Wilkes County,27
+North Carolina,Wilson County,13
+North Carolina,Yadkin County,15
+North Carolina,Yancey County,7
+New York,Albany County,17
+Missouri,Adair County,6
+Missouri,Audrain County,24
+Missouri,Barry County,13
+Missouri,Barton County,10
+Missouri,Bates County,7
+Missouri,Benton County,14
+Minnesota,Aitkin County,9
+Minnesota,Anoka County,338
+Minnesota,Becker County,23
+Minnesota,Beltrami County,25
+New York,Bronx County,329
+New York,Broome County,53
+New York,Cattaraugus County,21
+New York,Cayuga County,23
+New York,Chautauqua County,66
+New York,Chenango County,22
+New York,Columbia County,42
+Missouri,Bollinger County,9
+Missouri,Boone County,5
+Missouri,Buchanan County,8
+Missouri,Butler County,131
+Missouri,Caldwell County,12
+Missouri,Callaway County,22
+Missouri,Camden County,169
+Missouri,Cape Girardeau County,53
+Missouri,Carroll County,6
+Missouri,Carter County,15
+Missouri,Cass County,15
+Minnesota,Benton County,14
+Minnesota,Big Stone County,10
+Minnesota,Blue Earth County,52
+Minnesota,Brown County,26
+Minnesota,Carlton County,21
+Minnesota,Carver County,40
+Minnesota,Cass County,15
+Minnesota,Chippewa County,10
+Minnesota,Chisago County,30
+Minnesota,Clay County,5
+Minnesota,Clearwater County,5
+Minnesota,Cook County,1823
+Minnesota,Cottonwood County,16
+Minnesota,Crow Wing County,41
+Minnesota,Dakota County,14
+Minnesota,Dodge County,29
+New York,Cortland County,18
+New York,Delaware County,63
+New York,Dutchess County,99
+New York,Erie County,159
+New York,Franklin County,6
+New York,Fulton County,22
+New York,Genesee County,197
+New York,Greene County,17
+New York,Herkimer County,24
+New York,Jefferson County,35
+New York,Kings County,391
+New York,Livingston County,14
+New York,Madison County,81
+New York,Monroe County,14
+New York,Montgomery County,15
+New York,Nassau County,19
+New York,New York County,354
+New York,Niagara County,72
+Missouri,Cedar County,6
+Missouri,Chariton County,8
+Missouri,Christian County,31
+Missouri,Clay County,5
+Missouri,Clinton County,28
+Missouri,Cole County,44
+Missouri,Cooper County,14
+Missouri,Crawford County,29
+Missouri,Dade County,5
+Missouri,Dallas County,1311
+Missouri,Daviess County,45
+Missouri,Dent County,7
+Missouri,Douglas County,18
+Missouri,Dunklin County,24
+Missouri,Franklin County,13
+Missouri,Gasconade County,13
+Missouri,Gentry County,9
+Minnesota,Douglas County,18
+Minnesota,Faribault County,21
+Minnesota,Fillmore County,5
+Minnesota,Freeborn County,21
+Minnesota,Goodhue County,23
+Minnesota,Hennepin County,392
+Minnesota,Houston County,14
+Minnesota,Hubbard County,10
+Minnesota,Isanti County,13
+Minnesota,Itasca County,36
+Minnesota,Jackson County,66
+New York,Oneida County,97
+New York,Onondaga County,161
+New York,Ontario County,41
+New York,Orange County,18
+New York,Orleans County,11
+New York,Oswego County,33
+New York,Putnam County,16
+New York,Queens County,251
+New York,Rensselaer County,60
+New York,Richmond County,70
+New York,Rockland County,105
+New York,Saint Lawrence County,26
+New York,Saratoga County,47
+New York,Schenectady County,54
+New York,Schoharie County,3
+New York,Steuben County,39
+Missouri,Greene County,13
+Missouri,Harrison County,20
+Missouri,Henry County,9
+Missouri,Hickory County,3
+Missouri,Howard County,26
+Missouri,Howell County,28
+Missouri,Iron County,7
+Missouri,Jackson County,66
+Missouri,Jasper County,14
+Missouri,Jefferson County,131
+Missouri,Johnson County,12
+Missouri,Laclede County,20
+Missouri,Lafayette County,6
+Missouri,Lawrence County,55
+Missouri,Lincoln County,15
+Minnesota,Kanabec County,7
+Minnesota,Kandiyohi County,41
+Minnesota,Kittson County,8
+Minnesota,Koochiching County,14
+Minnesota,Lac Qui Parle County,8
+Minnesota,Lake County,168
+Minnesota,Lake Of The Woods County,6
+Minnesota,Le Sueur County,15
+Minnesota,Lincoln County,15
+Minnesota,Lyon County,7
+Minnesota,Mahnomen County,2
+Minnesota,Martin County,6
+Minnesota,Mcleod County,20
+Minnesota,Meeker County,17
+Minnesota,Mille Lacs County,19
+Minnesota,Morrison County,31
+Minnesota,Mower County,32
+New York,Suffolk County,389
+New York,Sullivan County,68
+New York,Tioga County,15
+New York,Tompkins County,46
+New York,Ulster County,57
+New York,Warren County,17
+New York,Washington County,18
+New York,Wayne County,38
+New York,Westchester County,324
+New York,Wyoming County,13
+Missouri,Linn County,118
+Missouri,Macon County,5
+Missouri,Madison County,4
+Missouri,Mcdonald County,4
+Missouri,Miller County,9
+Missouri,Moniteau County,11
+Missouri,Monroe County,52
+Missouri,Montgomery County,26
+Missouri,Morgan County,34
+Missouri,Newton County,5
+Missouri,Oregon County,3
+Missouri,Osage County,5
+Missouri,Ozark County,2
+Missouri,Perry County,12
+Minnesota,Murray County,7
+Minnesota,Nicollet County,16
+Minnesota,Nobles County,19
+Minnesota,Norman County,10
+Minnesota,Olmsted County,70
+Minnesota,Otter Tail County,49
+Minnesota,Pennington County,62
+Minnesota,Pine County,18
+Minnesota,Pipestone County,11
+Minnesota,Polk County,18
+Minnesota,Pope County,21
+Minnesota,Ramsey County,168
+Minnesota,Redwood County,19
+Minnesota,Renville County,18
+Minnesota,Rice County,40
+Missouri,Pettis County,29
+Missouri,Phelps County,9
+Missouri,Pike County,13
+Missouri,Platte County,8
+Missouri,Polk County,18
+Missouri,Pulaski County,10
+Missouri,Ralls County,2
+Missouri,Randolph County,8
+Missouri,Ray County,9
+Missouri,Reynolds County,4
+Missouri,Ripley County,12
+Missouri,Saint Charles County,107
+Missouri,Saint Clair County,50
+Missouri,Saint Francois County,49
+Missouri,Saint Louis City,261
+Minnesota,Rock County,74
+Minnesota,Roseau County,16
+Minnesota,Saint Louis County,475
+Minnesota,Scott County,73
+Minnesota,Sherburne County,29
+Minnesota,Sibley County,15
+Minnesota,Stearns County,86
+Minnesota,Steele County,35
+Minnesota,Swift County,12
+Minnesota,Todd County,10
+Missouri,Saint Louis County,475
+Missouri,Sainte Genevieve County,8
+Missouri,Saline County,5
+Missouri,Scott County,73
+Missouri,Shannon County,3
+Missouri,Stoddard County,30
+Missouri,Stone County,6
+Missouri,Taney County,19
+Missouri,Texas County,13
+Missouri,Vernon County,25
+Missouri,Warren County,26
+Missouri,Washington County,26
+Missouri,Wayne County,707
+Minnesota,Traverse County,5
+Minnesota,Wabasha County,12
+Minnesota,Wadena County,24
+Minnesota,Waseca County,9
+Minnesota,Washington County,26
+Minnesota,Watonwan County,7
+Minnesota,Wilkin County,9
+Minnesota,Winona County,31
+Minnesota,Wright County,8
+Michigan,Alcona County,6
+Missouri,Webster County,5
+Missouri,Wright County,8
+Minnesota,Yellow Medicine County,19
+Michigan,Allegan County,28
+Michigan,Alpena County,17
+Michigan,Antrim County,3
+Michigan,Arenac County,8
+Michigan,Baraga County,5
+Michigan,Barry County,13
+Michigan,Bay County,50
+Michigan,Benzie County,7
+Michigan,Berrien County,69
+Michigan,Branch County,16
+Michigan,Calhoun County,34
+Michigan,Cass County,14
+Michigan,Charlevoix County,8
+Michigan,Cheboygan County,10
+Michigan,Chippewa County,40
+Michigan,Clare County,11
+Michigan,Clinton County,8
+Michigan,Crawford County,50
+Michigan,Delta County,14
+Michigan,Dickinson County,16
+Michigan,Eaton County,43
+Michigan,Emmet County,19
+Michigan,Genesee County,197
+Michigan,Gladwin County,11
+Michigan,Gogebic County,9
+Michigan,Grand Traverse County,48
+Michigan,Gratiot County,27
+Michigan,Hillsdale County,12
+Michigan,Houghton County,22
+Michigan,Huron County,20
+Michigan,Ingham County,143
+Michigan,Ionia County,15
+Michigan,Iosco County,13
+Michigan,Isabella County,25
+Michigan,Jackson County,65
+Michigan,Kalamazoo County,133
+Michigan,Kalkaska County,6
+Michigan,Kent County,18
+Michigan,Lake County,12
+Michigan,Lapeer County,41
+Michigan,Leelanau County,7
+Michigan,Lenawee County,31
+Michigan,Livingston County,14
+Michigan,Mackinac County,4
+Michigan,Macomb County,352
+Michigan,Manistee County,2
+Michigan,Marquette County,26
+Ohio,Adams County,27
+Ohio,Allen County,93
+Michigan,Mason County,7
+Michigan,Mecosta County,16
+Michigan,Midland County,33
+Michigan,Missaukee County,5
+Michigan,Monroe County,14
+Michigan,Montcalm County,21
+Michigan,Montmorency County,3
+Michigan,Muskegon County,72
+Michigan,Newaygo County,13
+Michigan,Oakland County,904
+Ohio,Ashland County,31
+Ohio,Ashtabula County,49
+Ohio,Athens County,33
+Ohio,Auglaize County,20
+Ohio,Belmont County,42
+Ohio,Brown County,26
+Ohio,Butler County,131
+Ohio,Carroll County,6
+Ohio,Champaign County,17
+Ohio,Clark County,243
+Michigan,Oceana County,5
+Michigan,Ogemaw County,17
+Michigan,Osceola County,67
+Michigan,Oscoda County,4
+Michigan,Otsego County,22
+Michigan,Ottawa County,89
+Michigan,Presque Isle County,7
+Michigan,Roscommon County,9
+Michigan,Saginaw County,90
+Michigan,Saint Clair County,50
+Michigan,Saint Joseph County,29
+Michigan,Sanilac County,18
+Michigan,Schoolcraft County,6
+Michigan,Shiawassee County,26
+Michigan,Tuscola County,22
+Michigan,Van Buren County,8
+Michigan,Washtenaw County,141
+Ohio,Clermont County,72
+Ohio,Clinton County,28
+Ohio,Columbiana County,51
+Ohio,Coshocton County,24
+Ohio,Crawford County,29
+Ohio,Cuyahoga County,732
+Ohio,Darke County,27
+Ohio,Defiance County,19
+Ohio,Delaware County,64
+Ohio,Erie County,334
+Ohio,Fairfield County,8
+Michigan,Wayne County,38
+Michigan,Wexford County,14
+Ohio,Fayette County,16
+Ohio,Franklin County,13
+Ohio,Fulton County,16
+Ohio,Gallia County,11
+Ohio,Geauga County,36
+Ohio,Greene County,13
+Ohio,Guernsey County,19
+Ohio,Hamilton County,24
+Ohio,Hancock County,24
+Ohio,Hardin County,14
+Ohio,Harrison County,20
+Ohio,Henry County,9
+Ohio,Highland County,15
+Ohio,Hocking County,11
+Ohio,Holmes County,5
+Ohio,Huron County,33
+Ohio,Jackson County,66
+Ohio,Jefferson County,131
+Ohio,Knox County,27
+Ohio,Lake County,168
+Ohio,Lawrence County,55
+Ohio,Licking County,74
+Ohio,Logan County,29
+Ohio,Lorain County,131
+Ohio,Lucas County,262
+Ohio,Madison County,4
+Ohio,Mahoning County,133
+Ohio,Marion County,5
+Ohio,Medina County,16
+Ohio,Meigs County,9
+Ohio,Mercer County,94
+Ohio,Miami County,44
+Ohio,Monroe County,52
+Ohio,Montgomery County,26
+Ohio,Morgan County,34
+Ohio,Morrow County,18
+Ohio,Muskingum County,40
+Ohio,Noble County,9
+Ohio,Ottawa County,89
+Ohio,Paulding County,10
+Ohio,Perry County,12
+Ohio,Pickaway County,15
+Ohio,Pike County,13
+Ohio,Portage County,61
+Ohio,Preble County,22
+Ohio,Putnam County,14
+Ohio,Richland County,132
+Ohio,Ross County,34
+Ohio,Sandusky County,31
+Ohio,Scioto County,50
+Ohio,Seneca County,38
+Ohio,Shelby County,30
+Ohio,Stark County,177
+Ohio,Summit County,270
+Ohio,Trumbull County,75
+Ohio,Tuscarawas County,38
+Ohio,Union County,7
+Ohio,Van Wert County,14
+Ohio,Vinton County,6
+Ohio,Warren County,26
+Ohio,Washington County,26
+Ohio,Wayne County,707
+Ohio,Williams County,13
+Ohio,Wood County,21
+Ohio,Wyandot County,9
+Wisconsin,Barron County,35
+Wisconsin,Brown County,26
+Wisconsin,Calumet County,19
+Wisconsin,Chippewa County,10
+Wisconsin,Columbia County,29
+Wisconsin,Crawford County,29
+Wisconsin,Dane County,284
+Wisconsin,Dodge County,29
+Wisconsin,Door County,17
+Wisconsin,Douglas County,18
+Wisconsin,Dunn County,18
+Wisconsin,Eau Claire County,79
+Wisconsin,Fond Du Lac County,73
+Wisconsin,Grant County,14
+Wisconsin,Green County,30
+Wisconsin,Green Lake County,20
+Wisconsin,Jefferson County,131
+Wisconsin,Kenosha County,67
+Wisconsin,Kewaunee County,10
+Wisconsin,La Crosse County,63
+Wisconsin,Manitowoc County,52
+Wisconsin,Marathon County,58
+Wisconsin,Marinette County,29
+Wisconsin,Milwaukee County,586
+Wisconsin,Oconto County,16
+Wisconsin,Outagamie County,88
+Wisconsin,Ozaukee County,69
+Wisconsin,Pepin County,6
+Wisconsin,Pierce County,303
+Wisconsin,Polk County,18
+Wisconsin,Portage County,61
+Wisconsin,Racine County,98
+Wisconsin,Rock County,74
+Wisconsin,Rusk County,18
+Wisconsin,Saint Croix County,43
+Wisconsin,Sauk County,31
+Wisconsin,Shawano County,22
+Wisconsin,Sheboygan County,76
+Wisconsin,Vernon County,25
+Wisconsin,Walworth County,60
+Wisconsin,Washburn County,13
+Wisconsin,Washington County,26
+Wisconsin,Waukesha County,212
+Wisconsin,Waupaca County,42
+Wisconsin,Winnebago County,105
+Wisconsin,Wood County,21
+West Virginia,Barbour County,9
+West Virginia,Berkeley County,29
+West Virginia,Boone County,5
+West Virginia,Braxton County,3
+West Virginia,Brooke County,12
+West Virginia,Cabell County,60
+West Virginia,Calhoun County,52
+West Virginia,Clay County,5
+West Virginia,Doddridge County,2
+West Virginia,Fayette County,16
+West Virginia,Greenbrier County,17
+West Virginia,Hancock County,24
+West Virginia,Harrison County,20
+West Virginia,Jefferson County,131
+West Virginia,Kanawha County,74
+West Virginia,Lewis County,4
+West Virginia,Lincoln County,15
+Vermont,Addison County,23
+Vermont,Bennington County,39
+Vermont,Chittenden County,89
+Vermont,Franklin County,13
+Vermont,Grand Isle County,3
+Vermont,Lamoille County,15
+Vermont,Orange County,75
+Vermont,Orleans County,11
+West Virginia,Logan County,29
+West Virginia,Marion County,5
+West Virginia,Marshall County,22
+West Virginia,Mason County,3
+West Virginia,Mcdowell County,23
+West Virginia,Mercer County,94
+West Virginia,Mingo County,5
+West Virginia,Monongalia County,29
+West Virginia,Monroe County,52
+West Virginia,Nicholas County,8
+West Virginia,Ohio County,1
+West Virginia,Pendleton County,3
+West Virginia,Pleasants County,5
+West Virginia,Preston County,11
+West Virginia,Putnam County,14
+Vermont,Rutland County,43
+Vermont,Washington County,26
+Vermont,Windham County,47
+Vermont,Windsor County,39
+West Virginia,Raleigh County,22
+West Virginia,Randolph County,8
+West Virginia,Taylor County,56
+West Virginia,Tyler County,9
+West Virginia,Upshur County,12
+West Virginia,Wayne County,707
+West Virginia,Webster County,5
+West Virginia,Wetzel County,8
+West Virginia,Wirt County,0
+West Virginia,Wood County,21
+West Virginia,Wyoming County,13
+Utah,Beaver County,71
+Utah,Box Elder County,20
+Utah,Cache County,37
+Utah,Carbon County,9
+Utah,Davis County,92
+Utah,Duchesne County,8
+South Dakota,Brookings County,24
+South Dakota,Butte County,112
+South Dakota,Davison County,26
+South Dakota,Fall River County,9
+South Dakota,Grant County,14
+South Dakota,Hutchinson County,5
+South Dakota,Lawrence County,55
+South Dakota,Lincoln County,15
+Utah,Iron County,7
+Utah,Juab County,7
+Utah,Morgan County,34
+Utah,Salt Lake County,345
+Utah,Sanpete County,10
+Utah,Sevier County,5
+Utah,Summit County,18
+Utah,Tooele County,8
+Utah,Uintah County,8
+Utah,Utah County,151
+Utah,Wasatch County,2
+Utah,Washington County,18
+Utah,Weber County,91
+South Dakota,Mccook County,9
+South Dakota,Minnehaha County,106
+South Dakota,Moody County,7
+South Dakota,Pennington County,62
+South Dakota,Turner County,13
+South Dakota,Union County,7
+South Dakota,Yankton County,23
+Rhode Island,Bristol County,211
+Rhode Island,Kent County,276
+Rhode Island,Newport County,45
+Rhode Island,Providence County,344
+Rhode Island,Washington County,26
+Virginia,Accomack County,13
+South Carolina,Abbeville County,10
+South Carolina,Aiken County,61
+South Carolina,Allendale County,5
+South Carolina,Anderson County,56
+South Carolina,Bamberg County,10
+South Carolina,Barnwell County,7
+Virginia,Albemarle County,54
+Virginia,Alexandria City,56
+Virginia,Alleghany County,12
+Virginia,Amelia County,1
+Virginia,Amherst County,4
+Virginia,Appomattox County,6
+Virginia,Arlington County,45
+Virginia,Augusta County,20
+Virginia,Bedford County,19
+Virginia,Bland County,1
+Virginia,Botetourt County,11
+Virginia,Bristol County,211
+Virginia,Brunswick County,22
+Virginia,Buchanan County,8
+Virginia,Buckingham County,2
+Virginia,Campbell County,2
+South Carolina,Beaufort County,75
+South Carolina,Berkeley County,29
+South Carolina,Calhoun County,52
+South Carolina,Charleston County,144
+South Carolina,Cherokee County,17
+South Carolina,Chester County,9
+South Carolina,Chesterfield County,18
+South Carolina,Clarendon County,11
+South Carolina,Colleton County,6
+South Carolina,Darlington County,19
+South Carolina,Dillon County,7
+South Carolina,Dorchester County,38
+South Carolina,Edgefield County,7
+South Carolina,Fairfield County,8
+South Carolina,Florence County,60
+South Carolina,Georgetown County,40
+Virginia,Caroline County,14
+Virginia,Carroll County,6
+Virginia,Charles City,8
+Virginia,Charlotte County,75
+Virginia,Charlottesville City,17
+Virginia,Chesapeake City,0
+Virginia,Chesterfield County,18
+Virginia,Clarke County,12
+Virginia,Colonial Heights City,10
+Virginia,Craig County,19
+Virginia,Culpeper County,18
+Virginia,Cumberland County,153
+Virginia,Danville City,42
+Virginia,Dinwiddie County,5
+Virginia,Emporia City,0
+South Carolina,Greenville County,184
+South Carolina,Greenwood County,29
+South Carolina,Hampton County,6
+South Carolina,Horry County,93
+South Carolina,Jasper County,14
+South Carolina,Kershaw County,22
+South Carolina,Lancaster County,21
+South Carolina,Laurens County,36
+South Carolina,Lee County,7
+South Carolina,Lexington County,88
+South Carolina,Marion County,5
+South Carolina,Marlboro County,6
+South Carolina,Mccormick County,4
+South Carolina,Newberry County,11
+South Carolina,Oconee County,34
+South Carolina,Orangeburg County,47
+South Carolina,Pickens County,46
+Virginia,Essex County,320
+Virginia,Fairfax City,43
+Virginia,Fairfax County,267
+Virginia,Falls Church City,23
+Virginia,Fauquier County,19
+Virginia,Floyd County,4
+Virginia,Fluvanna County,3
+Virginia,Franklin City,12
+Virginia,Franklin County,13
+Virginia,Frederick County,118
+Virginia,Fredericksburg City,42
+Virginia,Galax City,11
+Virginia,Giles County,4
+Virginia,Gloucester County,73
+Virginia,Goochland County,23
+Tennessee,Anderson County,56
+South Carolina,Richland County,132
+South Carolina,Saluda County,4
+South Carolina,Spartanburg County,104
+South Carolina,Sumter County,47
+South Carolina,Union County,7
+South Carolina,Williamsburg County,7
+South Carolina,York County,84
+Virginia,Grayson County,74
+Virginia,Greene County,13
+Virginia,Greensville County,9
+Virginia,Halifax County,26
+Virginia,Hampton City,37
+Virginia,Hanover County,32
+Virginia,Harrisonburg City,33
+Virginia,Henrico County,131
+Virginia,Henry County,9
+Virginia,Hopewell City,5
+Virginia,Isle Of Wight County,10
+Virginia,James City,51
+Virginia,King And Queen County,0
+Virginia,King George County,2
+Virginia,King William County,3
+Virginia,Lancaster County,21
+Tennessee,Bedford County,19
+Tennessee,Benton County,14
+Tennessee,Bledsoe County,5
+Tennessee,Blount County,20
+Tennessee,Bradley County,32
+Tennessee,Campbell County,2
+Tennessee,Cannon County,4
+Tennessee,Carroll County,6
+Tennessee,Carter County,15
+Tennessee,Cheatham County,4
+Tennessee,Claiborne County,11
+Tennessee,Clay County,5
+Tennessee,Cocke County,9
+Tennessee,Coffee County,20
+Tennessee,Crockett County,1
+Tennessee,Cumberland County,153
+Tennessee,Davidson County,212
+Virginia,Loudoun County,74
+Virginia,Louisa County,5
+Virginia,Lunenburg County,0
+Virginia,Lynchburg City,69
+Virginia,Madison County,4
+Virginia,Manassas City,31
+Virginia,Manassas Park City,0
+Virginia,Martinsville City,18
+Virginia,Mathews County,0
+Virginia,Mecklenburg County,304
+Virginia,Middlesex County,178
+Virginia,Montgomery County,26
+Virginia,Nelson County,2
+Virginia,New Kent County,0
+Virginia,Newport News City,74
+Tennessee,Decatur County,12
+Tennessee,Dekalb County,11
+Tennessee,Dickson County,12
+Tennessee,Dyer County,18
+Tennessee,Fayette County,16
+Tennessee,Fentress County,8
+Tennessee,Franklin County,13
+Tennessee,Gibson County,28
+Tennessee,Giles County,4
+Tennessee,Grainger County,7
+Tennessee,Greene County,13
+Tennessee,Grundy County,10
+Tennessee,Hamblen County,30
+Tennessee,Hamilton County,24
+Tennessee,Hancock County,24
+Tennessee,Hardeman County,1
+Virginia,Norfolk City,75
+Virginia,Northampton County,140
+Virginia,Northumberland County,56
+Virginia,Nottoway County,6
+Virginia,Orange County,75
+Virginia,Page County,15
+Virginia,Patrick County,6
+Virginia,Petersburg City,33
+Virginia,Pittsylvania County,5
+Virginia,Poquoson City,3
+Virginia,Portsmouth City,31
+Virginia,Powhatan County,1
+Virginia,Prince Edward County,14
+Virginia,Prince George County,0
+Tennessee,Hardin County,14
+Tennessee,Hawkins County,9
+Tennessee,Haywood County,7
+Tennessee,Henderson County,31
+Tennessee,Henry County,9
+Tennessee,Hickman County,6
+Tennessee,Houston County,14
+Tennessee,Humphreys County,8
+Tennessee,Jackson County,66
+Tennessee,Jefferson County,131
+Tennessee,Johnson County,12
+Tennessee,Knox County,27
+Tennessee,Lauderdale County,35
+Tennessee,Lawrence County,55
+Tennessee,Lincoln County,15
+Tennessee,Loudon County,16
+Virginia,Prince William County,74
+Virginia,Pulaski County,10
+Virginia,Radford County,14
+Virginia,Rappahannock County,0
+Virginia,Richmond City,110
+Virginia,Richmond County,72
+Virginia,Roanoke City,63
+Virginia,Roanoke County,36
+Virginia,Rockbridge County,2
+Virginia,Rockingham County,131
+Virginia,Russell County,13
+Virginia,Salem County,26
+Virginia,Scott County,73
+Virginia,Shenandoah County,19
+Virginia,Smyth County,9
+Tennessee,Macon County,5
+Tennessee,Madison County,4
+Tennessee,Marion County,5
+Tennessee,Marshall County,22
+Tennessee,Maury County,26
+Tennessee,Mcminn County,24
+Tennessee,Mcnairy County,7
+Tennessee,Meigs County,9
+Tennessee,Monroe County,52
+Tennessee,Montgomery County,26
+Tennessee,Moore County,10
+Tennessee,Morgan County,34
+Tennessee,Obion County,20
+Tennessee,Overton County,5
+Tennessee,Perry County,12
+Tennessee,Pickett County,6
+Tennessee,Polk County,18
+Virginia,Southampton County,1
+Virginia,Spotsylvania County,30
+Virginia,Stafford County,20
+Virginia,Staunton City,34
+Virginia,Suffolk City,38
+Virginia,Surry County,0
+Virginia,Sussex County,35
+Virginia,Tazewell County,62
+Virginia,Virginia Beach City,124
+Virginia,Warren County,26
+Virginia,Washington County,26
+Virginia,Waynesboro City,22
+Tennessee,Putnam County,14
+Tennessee,Rhea County,12
+Tennessee,Roane County,14
+Tennessee,Robertson County,8
+Tennessee,Rutherford County,67
+Tennessee,Scott County,73
+Tennessee,Sequatchie County,5
+Tennessee,Sevier County,18
+Tennessee,Shelby County,30
+Tennessee,Smith County,115
+Tennessee,Stewart County,4
+Tennessee,Sullivan County,29
+Tennessee,Sumner County,59
+Tennessee,Tipton County,8
+Tennessee,Trousdale County,7
+Virginia,Westmoreland County,175
+Virginia,Williamsburg City,0
+Virginia,Winchester City,19
+Virginia,Wise County,19
+Virginia,Wythe County,16
+Virginia,York County,84
+Tennessee,Unicoi County,7
+Tennessee,Union County,7
+Tennessee,Van Buren County,17
+Tennessee,Warren County,26
+Tennessee,Washington County,26
+Tennessee,Wayne County,707
+Tennessee,Weakley County,14
+Tennessee,White County,7
+Tennessee,Williamson County,175
+Tennessee,Wilson County,13
+Massachusetts,Barnstable County,119
+Massachusetts,Berkshire County,87
+Massachusetts,Bristol County,211
+Massachusetts,Dukes County,10
+Massachusetts,Essex County,320
+Massachusetts,Franklin County,13
+Massachusetts,Hampden County,260
+Massachusetts,Hampshire County,57
+Massachusetts,Middlesex County,178
+Massachusetts,Nantucket County,5
+Massachusetts,Norfolk County,320
+Massachusetts,Plymouth County,195
+Massachusetts,Suffolk County,383
+Massachusetts,Worcester County,27
+Texas,Anderson County,56
+Texas,Andrews County,6
+Texas,Angelina County,40
+Texas,Aransas County,11
+Texas,Archer County,2
+Texas,Armstrong County,1
+Texas,Atascosa County,15
+Texas,Austin County,14
+Texas,Bailey County,2
+Texas,Bandera County,3
+Texas,Bastrop County,20
+Texas,Baylor County,3
+Texas,Bee County,15
+Texas,Bell County,74
+Texas,Bexar County,594
+Texas,Blanco County,2
+Texas,Borden County,0
+Texas,Bosque County,13
+Texas,Bowie County,52
+Texas,Brazoria County,97
+Texas,Brazos County,77
+Texas,Brewster County,2
+Texas,Brown County,26
+Texas,Burleson County,2
+Texas,Burnet County,20
+Texas,Caldwell County,12
+Texas,Calhoun County,52
+Texas,Callahan County,2
+Texas,Cameron County,166
+Texas,Camp County,4
+Texas,Carson County,0
+Texas,Cass County,15
+Texas,Castro County,3
+Texas,Chambers County,5
+Texas,Cherokee County,17
+Texas,Childress County,5
+Texas,Clay County,5
+Texas,Cochran County,1
+Texas,Coke County,2
+Texas,Coleman County,5
+Texas,Collin County,352
+Texas,Collingsworth County,4
+Texas,Colorado County,11
+Texas,Comal County,43
+Texas,Comanche County,10
+Texas,Concho County,2
+Texas,Cooke County,14
+Texas,Coryell County,15
+Texas,Cottle County,1
+Texas,Crane County,2
+Texas,Crockett County,1
+Texas,Crosby County,4
+Texas,Dallam County,5
+Texas,Dallas County,1311
+Texas,Dawson County,5
+Texas,De Witt County,7
+Texas,Deaf Smith County,13
+Texas,Delta County,3
+Texas,Denton County,239
+Texas,Dimmit County,4
+Texas,Duval County,12
+Texas,Eastland County,11
+Texas,Ector County,39
+Texas,Edwards County,0
+Texas,El Paso County,232
+Texas,Ellis County,47
+Texas,Erath County,21
+Texas,Falls County,4
+Texas,Fannin County,14
+Texas,Fayette County,16
+Texas,Fisher County,0
+Texas,Floyd County,4
+Texas,Fort Bend County,361
+Texas,Franklin County,13
+Texas,Freestone County,9
+Texas,Frio County,7
+Texas,Gaines County,4
+Texas,Galveston County,100
+Texas,Garza County,1
+Texas,Gillespie County,21
+Texas,Glasscock County,0
+Texas,Goliad County,3
+Texas,Gonzales County,11
+Texas,Gray County,11
+Texas,Grayson County,74
+Texas,Gregg County,84
+Texas,Grimes County,4
+Texas,Guadalupe County,24
+Texas,Hale County,18
+Texas,Hall County,2
+Texas,Hamilton County,24
+Texas,Hansford County,5
+Texas,Hardeman County,1
+Texas,Hardin County,14
+Texas,Harris County,1620
+Texas,Harrison County,20
+Texas,Hartley County,0
+Texas,Haskell County,3
+Texas,Hays County,75
+Texas,Hemphill County,3
+Texas,Henderson County,31
+Texas,Hidalgo County,386
+Texas,Hill County,14
+Texas,Hockley County,11
+Texas,Hood County,26
+Texas,Hopkins County,13
+Texas,Houston County,14
+Texas,Howard County,26
+Texas,Hunt County,24
+Texas,Hutchinson County,5
+Texas,Irion County,0
+Texas,Jack County,3
+Texas,Jackson County,66
+Texas,Jasper County,14
+Texas,Jefferson County,131
+Texas,Jim Wells County,32
+Texas,Johnson County,12
+Texas,Jones County,8
+Texas,Karnes County,7
+Texas,Kaufman County,40
+Texas,Kendall County,29
+Texas,Kenedy County,0
+Texas,Kerr County,29
+Texas,Kimble County,3
+Texas,Kleberg County,12
+Texas,La Salle County,1
+Texas,Lamar County,30
+Texas,Lamb County,8
+Texas,Lampasas County,6
+Texas,Lavaca County,18
+Texas,Lee County,7
+Washington,Adams County,27
+Texas,Leon County,3
+Texas,Liberty County,22
+Texas,Limestone County,10
+Texas,Live Oak County,3
+Texas,Llano County,12
+Texas,Lubbock County,106
+Texas,Lynn County,3
+Texas,Madison County,4
+Texas,Marion County,5
+Texas,Martin County,6
+Texas,Mason County,3
+Texas,Matagorda County,16
+Texas,Maverick County,23
+Texas,Mcculloch County,4
+Texas,Mclennan County,98
+Texas,Medina County,16
+Washington,Asotin County,10
+Washington,Benton County,14
+Washington,Chelan County,39
+Washington,Clallam County,36
+Washington,Clark County,243
+Washington,Columbia County,29
+Washington,Cowlitz County,39
+Washington,Franklin County,13
+Washington,Garfield County,35
+Washington,Grant County,14
+Washington,Grays Harbor County,25
+Washington,Island County,22
+Washington,Jefferson County,131
+Washington,King County,1133
+Washington,Kitsap County,106
+Washington,Kittitas County,15
+Texas,Menard County,1
+Texas,Midland County,33
+Texas,Milam County,7
+Texas,Mills County,2
+Texas,Mitchell County,5
+Texas,Montague County,10
+Texas,Montgomery County,26
+Texas,Moore County,10
+Texas,Morris County,6
+Texas,Nacogdoches County,27
+Texas,Navarro County,25
+Texas,Newton County,5
+Texas,Nolan County,7
+Texas,Nueces County,166
+Texas,Ochiltree County,4
+Texas,Oldham County,0
+Texas,Orange County,75
+Washington,Klickitat County,4
+Washington,Lewis County,4
+Washington,Lincoln County,15
+Washington,Mason County,3
+Washington,Pend Oreille County,3
+Washington,Pierce County,303
+Washington,Skagit County,44
+Washington,Skamania County,2
+Washington,Snohomish County,296
+Washington,Spokane County,247
+Washington,Stevens County,16
+Washington,Thurston County,95
+Washington,Walla Walla County,33
+Washington,Whatcom County,78
+Washington,Whitman County,29
+Washington,Yakima County,90
+Texas,Palo Pinto County,7
+Texas,Panola County,10
+Texas,Parker County,34
+Texas,Parmer County,5
+Texas,Pecos County,5
+Texas,Polk County,18
+Texas,Potter County,65
+Texas,Rains County,3
+Texas,Randall County,27
+Texas,Reagan County,1
+Texas,Red River County,6
+Texas,Reeves County,3
+Texas,Refugio County,5
+Texas,Robertson County,8
+Texas,Rockwall County,37
+Texas,Runnels County,6
+Texas,Rusk County,18
+Texas,Sabine County,4
+Texas,San Augustine County,5
+Texas,San Jacinto County,1
+Texas,San Patricio County,27
+Texas,San Saba County,3
+Texas,Schleicher County,2
+Texas,Scurry County,10
+Texas,Shackelford County,1
+Texas,Shelby County,30
+Texas,Sherman County,1
+Texas,Smith County,115
+Texas,Somervell County,2
+Texas,Starr County,22
+Texas,Stephens County,4
+Texas,Sterling County,1
+Texas,Stonewall County,1
+Texas,Sutton County,1
+Texas,Swisher County,4
+Texas,Tarrant County,675
+Texas,Taylor County,56
+Texas,Terry County,7
+Texas,Throckmorton County,4
+Texas,Titus County,18
+Texas,Tom Green County,44
+Texas,Travis County,308
+Texas,Trinity County,3
+Texas,Tyler County,9
+Texas,Upshur County,12
+Texas,Upton County,1
+Texas,Uvalde County,14
+Texas,Val Verde County,17
+Texas,Van Zandt County,20
+Texas,Victoria County,46
+Texas,Walker County,19
+Texas,Waller County,10
+Texas,Ward County,3
+Texas,Washington County,26
+Texas,Webb County,91
+Texas,Wharton County,25
+Texas,Wheeler County,3
+Texas,Wichita County,70
+Texas,Wilbarger County,9
+Texas,Willacy County,6
+Texas,Williamson County,175
+Texas,Wilson County,13
+Texas,Winkler County,0
+Texas,Wise County,19
+Texas,Wood County,21
+Texas,Yoakum County,1
+Texas,Young County,19
+Texas,Zapata County,4
+Texas,Zavala County,5
+Pennsylvania,Adams County,27
+Pennsylvania,Allegheny County,765
+Pennsylvania,Armstrong County,1
+Pennsylvania,Beaver County,71
+Pennsylvania,Bedford County,19
+Pennsylvania,Berks County,160
+Pennsylvania,Blair County,93
+Pennsylvania,Bradford County,3
+Pennsylvania,Bucks County,258
+Pennsylvania,Butler County,131
+Pennsylvania,Cambria County,89
+Pennsylvania,Carbon County,14
+Pennsylvania,Centre County,68
+Pennsylvania,Chester County,9
+Pennsylvania,Clarion County,17
+Pennsylvania,Clearfield County,43
+Pennsylvania,Clinton County,28
+Pennsylvania,Columbia County,29
+Pennsylvania,Crawford County,29
+Pennsylvania,Cumberland County,153
+Pennsylvania,Dauphin County,110
+Pennsylvania,Delaware County,64
+Pennsylvania,Elk County,18
+Pennsylvania,Erie County,334
+Pennsylvania,Fayette County,16
+Pennsylvania,Forest County,5
+Pennsylvania,Franklin County,13
+Pennsylvania,Greene County,13
+Pennsylvania,Huntingdon County,12
+Pennsylvania,Indiana County,48
+Pennsylvania,Jefferson County,131
+Pennsylvania,Juniata County,13
+Pennsylvania,Lackawanna County,134
+Pennsylvania,Lancaster County,21
+Pennsylvania,Lawrence County,55
+Pennsylvania,Lebanon County,76
+Pennsylvania,Lehigh County,161
+Pennsylvania,Luzerne County,183
+Pennsylvania,Lycoming County,61
+Pennsylvania,Mckean County,24
+Pennsylvania,Mercer County,94
+Pennsylvania,Mifflin County,13
+Pennsylvania,Monroe County,52
+Pennsylvania,Montgomery County,26
+Pennsylvania,Montour County,14
+Pennsylvania,Northampton County,140
+Pennsylvania,Northumberland County,56
+Pennsylvania,Perry County,12
+Pennsylvania,Philadelphia County,482
+Pennsylvania,Pike County,13
+Pennsylvania,Potter County,65
+Pennsylvania,Schuylkill County,73
+Pennsylvania,Snyder County,16
+Pennsylvania,Somerset County,15
+Pennsylvania,Sullivan County,29
+Pennsylvania,Susquehanna County,22
+Pennsylvania,Tioga County,17
+Pennsylvania,Union County,7
+Pennsylvania,Venango County,26
+Pennsylvania,Warren County,26
+Pennsylvania,Washington County,26
+Pennsylvania,Wayne County,707
+Pennsylvania,Westmoreland County,175
+Pennsylvania,Wyoming County,13
+Pennsylvania,York County,84
+Maryland,Allegany County,15
+Maryland,Anne Arundel County,182
+Maryland,Baltimore City,368
+Maryland,Baltimore County,363
+Maryland,Calvert County,18
+Maryland,Caroline County,14
+Maryland,Carroll County,6
+Maryland,Cecil County,30
+Maryland,Charles County,49
+Maryland,Dorchester County,38
+Maryland,Frederick County,118
+Maryland,Garrett County,10
+Maryland,Harford County,74
+Maryland,Howard County,26
+Maryland,Kent County,276
+Maryland,Montgomery County,26
+Maryland,Prince Georges County,385
+Maryland,Queen Annes County,11
+Maryland,Saint Marys County,21
+Maryland,Somerset County,15
+Maryland,Talbot County,26
+Maryland,Washington County,26
+Maryland,Wicomico County,51
+Maryland,Worcester County,27
+Maine,Androscoggin County,59
+Maine,Aroostook County,38
+Maine,Cumberland County,153
+Maine,Franklin County,13
+Maine,Hancock County,24
+Maine,Kennebec County,58
+Maine,Knox County,27
+Maine,Lincoln County,15
+Maine,Oxford County,29
+Maine,Penobscot County,81
+Maine,Piscataquis County,8
+Maine,Sagadahoc County,24
+Maine,Somerset County,15
+Maine,Waldo County,17
+Maine,Washington County,26
+Maine,York County,84
+Louisiana,Acadia Parish,18
+Louisiana,Allen Parish,13
+Kentucky,Adair County,6
+Kentucky,Allen County,93
+Kentucky,Anderson County,56
+Kentucky,Barren County,13
+Louisiana,Ascension Parish,18
+Louisiana,Assumption Parish,1
+Louisiana,Avoyelles Parish,22
+Louisiana,Beauregard Parish,8
+Louisiana,Bienville Parish,10
+Louisiana,Bossier Parish,33
+Louisiana,Caddo Parish,122
+Louisiana,Calcasieu Parish,62
+Louisiana,Caldwell Parish,2
+Louisiana,Cameron Parish,0
+Louisiana,Catahoula Parish,4
+Louisiana,Claiborne Parish,5
+Louisiana,Concordia Parish,8
+Kentucky,Bell County,74
+Kentucky,Boone County,5
+Kentucky,Bourbon County,12
+Kentucky,Boyd County,25
+Kentucky,Boyle County,16
+Kentucky,Breckinridge County,8
+Kentucky,Bullitt County,8
+Kentucky,Calloway County,10
+Louisiana,De Soto Parish,7
+Louisiana,East Baton Rouge Parish,168
+Louisiana,East Feliciana Parish,5
+Louisiana,Evangeline Parish,20
+Louisiana,Franklin Parish,12
+Louisiana,Grant Parish,5
+Louisiana,Iberia Parish,32
+Louisiana,Iberville Parish,5
+Louisiana,Jackson Parish,8
+Louisiana,Jefferson Davis Parish,13
+Kentucky,Campbell County,2
+Kentucky,Carroll County,6
+Kentucky,Carter County,15
+Kentucky,Christian County,31
+Kentucky,Clark County,243
+Kentucky,Daviess County,45
+Kentucky,Fayette County,16
+Kentucky,Franklin County,13
+Kentucky,Gallatin County,1
+Kentucky,Grant County,14
+Kentucky,Grayson County,74
+Kentucky,Greenup County,11
+Kentucky,Hancock County,24
+Kentucky,Hardin County,14
+Hawaii,Hawaii County,53
+Hawaii,Honolulu County,210
+Hawaii,Kauai County,15
+Hawaii,Maui County,33
+Louisiana,Jefferson Parish,126
+Louisiana,La Salle Parish,4
+Louisiana,Lafayette Parish,95
+Louisiana,Lafourche Parish,21
+Louisiana,Lincoln Parish,17
+Louisiana,Livingston Parish,22
+Louisiana,Madison Parish,12
+Louisiana,Morehouse Parish,17
+Louisiana,Natchitoches Parish,18
+Louisiana,Orleans Parish,114
+Kentucky,Harrison County,20
+Kentucky,Henderson County,31
+Kentucky,Henry County,9
+Kentucky,Hopkins County,13
+Kentucky,Jefferson County,131
+Kentucky,Jessamine County,17
+Kentucky,Kenton County,56
+Kentucky,Larue County,4
+Kentucky,Laurel County,10
+Kentucky,Lincoln County,15
+Kentucky,Logan County,29
+Kentucky,Madison County,4
+Kentucky,Marion County,5
+District Of Columbia,District Of Columbia County,210
+Louisiana,Ouachita Parish,86
+Louisiana,Plaquemines Parish,1
+Louisiana,Pointe Coupee Parish,5
+Louisiana,Rapides Parish,62
+Louisiana,Red River Parish,4
+Louisiana,Richland Parish,12
+Louisiana,Sabine Parish,6
+Louisiana,Saint Bernard Parish,7
+Louisiana,Saint Charles Parish,7
+Louisiana,Saint Helena Parish,1
+Louisiana,Saint James Parish,3
+Louisiana,Saint Landry Parish,32
+Kentucky,Mccracken County,37
+Kentucky,Meade County,5
+Kentucky,Mercer County,94
+Kentucky,Monroe County,52
+Kentucky,Muhlenberg County,7
+Kentucky,Nelson County,2
+Kentucky,Ohio County,1
+Kentucky,Oldham County,0
+Kentucky,Owen County,3
+Louisiana,Saint Martin Parish,8
+Louisiana,Saint Mary Parish,12
+Louisiana,Saint Tammany Parish,77
+Louisiana,St John The Baptist Parish,10
+Louisiana,Tangipahoa Parish,51
+Louisiana,Terrebonne Parish,24
+Louisiana,Union Parish,9
+Louisiana,Vermilion Parish,15
+Louisiana,Vernon Parish,9
+Louisiana,Washington Parish,10
+Louisiana,Webster Parish,23
+Louisiana,West Baton Rouge Parish,2
+Louisiana,West Carroll Parish,4
+Kentucky,Pendleton County,3
+Kentucky,Pike County,13
+Kentucky,Pulaski County,10
+Kentucky,Scott County,73
+Kentucky,Shelby County,30
+Kentucky,Spencer County,5
+Kentucky,Taylor County,56
+Kentucky,Trimble County,2
+Kentucky,Warren County,26
+Kentucky,Washington County,26
+Kentucky,Whitley County,5
+Idaho,Ada County,215
+Idaho,Adams County,27
+Idaho,Bannock County,49
+Idaho,Benewah County,3
+Louisiana,West Feliciana Parish,2
+Louisiana,Winn Parish,6
+Kentucky,Woodford County,16
+Idaho,Boise County,1
+Idaho,Bonner County,20
+Idaho,Bonneville County,52
+Idaho,Canyon County,69
+Idaho,Clearwater County,5
+Idaho,Elmore County,15
+Idaho,Gem County,10
+Idaho,Idaho County,6
+Idaho,Kootenai County,85
+Idaho,Latah County,15
+Idaho,Minidoka County,6
+Idaho,Nez Perce County,30
+Delaware,Kent County,18
+Delaware,New Castle County,209
+Delaware,Sussex County,35
+Idaho,Owyhee County,3
+Idaho,Payette County,14
+Idaho,Shoshone County,12
+Idaho,Twin Falls County,46
+Idaho,Valley County,2
+Idaho,Washington County,26
+Kansas,Anderson County,21
+Kansas,Atchison County,12
+Kansas,Barton County,18
+Kansas,Brown County,22
+Kansas,Butler County,93
+Kansas,Chautauqua County,66
+Kansas,Cherokee County,63
+Kansas,Clay County,65
+Kansas,Cloud County,10
+Kansas,Cowley County,29
+Kansas,Crawford County,50
+Kansas,Dickinson County,16
+Kansas,Douglas County,78
+Kansas,Elk County,18
+Kansas,Ellsworth County,4
+Kansas,Finney County,16
+Kansas,Franklin County,6
+Kansas,Geary County,10
+Kansas,Greenwood County,29
+Kansas,Harper County,2
+Kansas,Harvey County,36
+Kansas,Jackson County,65
+Kansas,Jefferson County,35
+Kansas,Johnson County,4
+Kansas,Kingman County,3
+Kansas,Labette County,17
+Kansas,Leavenworth County,18
+Kansas,Lincoln County,15
+Kansas,Linn County,14
+Kansas,Lyon County,9
+Kansas,Marion County,5
+Kansas,Marshall County,21
+Kansas,Mcpherson County,22
+Kansas,Miami County,21
+Kansas,Mitchell County,4
+Kansas,Montgomery County,15
+Kansas,Morris County,167
+Kansas,Nemaha County,12
+Kansas,Neosho County,17
+Kansas,Osage County,6
+Kansas,Ottawa County,89
+Kansas,Phillips County,9
+Kansas,Pottawatomie County,30
+Kansas,Pratt County,9
+Kansas,Reno County,44
+Kansas,Republic County,4
+Kansas,Rice County,9
+Kansas,Riley County,22
+Kansas,Saline County,16
+Kansas,Sedgwick County,255
+Kansas,Shawnee County,90
+Kansas,Sumner County,59
+Kansas,Wabaunsee County,3
+Kansas,Washington County,18
+Kansas,Wilson County,35
+Kansas,Wyandotte County,55
+Colorado,Adams County,27
+Colorado,Alamosa County,13
+Colorado,Arapahoe County,298
+Colorado,Boulder County,112
+Colorado,BROOMFIELD County,24
+Colorado,Chaffee County,9
+Colorado,Clear Creek County,0
+Colorado,Delta County,3
+Colorado,Denver County,335
+Colorado,Douglas County,18
+Colorado,Eagle County,4
+Colorado,El Paso County,232
+Connecticut,Fairfield County,8
+Connecticut,Hartford County,429
+Connecticut,Litchfield County,89
+Colorado,Elbert County,4
+Colorado,Fremont County,22
+Colorado,Garfield County,35
+Colorado,Gilpin County,0
+Colorado,Grand County,2
+Colorado,Gunnison County,6
+Colorado,Jefferson County,131
+Colorado,La Plata County,18
+Colorado,Larimer County,133
+Connecticut,Middlesex County,178
+Connecticut,New Haven County,356
+Connecticut,New London County,115
+Connecticut,Tolland County,43
+Connecticut,Windham County,47
+Colorado,Logan County,29
+Colorado,Mesa County,71
+Colorado,Montezuma County,12
+Colorado,Montrose County,21
+Colorado,Morgan County,34
+Colorado,Otero County,11
+Colorado,Park County,17
+Colorado,Pueblo County,62
+Colorado,Routt County,9
+Colorado,Summit County,270
+Colorado,Teller County,4
+Colorado,Weld County,82
+Georgia,Appling County,7
+Georgia,Baldwin County,17
+Georgia,Banks County,5
+Georgia,Barrow County,16
+Georgia,Bartow County,25
+Georgia,Bibb County,105
+Georgia,Bleckley County,3
+Georgia,Bryan County,17
+Georgia,Bulloch County,22
+Georgia,Burke County,38
+Georgia,Butts County,15
+Indiana,Adams County,27
+Indiana,Allen County,93
+Indiana,Bartholomew County,33
+Indiana,Benton County,14
+Indiana,Blackford County,8
+Georgia,Calhoun County,34
+Georgia,Candler County,5
+Georgia,Carroll County,6
+Georgia,Catoosa County,14
+Georgia,Chatham County,20
+Georgia,Chattahoochee County,0
+Georgia,Chattooga County,8
+Georgia,Cherokee County,63
+Georgia,Clarke County,12
+Georgia,Clayton County,60
+Georgia,Cobb County,246
+Georgia,Colquitt County,21
+Indiana,Boone County,5
+Indiana,Brown County,26
+Indiana,Carroll County,6
+Indiana,Cass County,15
+Indiana,Clark County,243
+Indiana,Clay County,5
+Indiana,Clinton County,28
+Indiana,Crawford County,29
+Indiana,Daviess County,45
+Indiana,De Kalb County,22
+Indiana,Dearborn County,20
+Indiana,Decatur County,12
+Indiana,Delaware County,64
+Iowa,Adair County,6
+Georgia,Columbia County,42
+Georgia,Cook County,1813
+Georgia,Coweta County,30
+Georgia,Crawford County,50
+Georgia,Crisp County,12
+Georgia,Dawson County,5
+Georgia,Decatur County,7
+Georgia,Dekalb County,37
+Georgia,Dodge County,62
+Georgia,Dooly County,5
+Georgia,Dougherty County,34
+Indiana,Dubois County,39
+Indiana,Elkhart County,56
+Indiana,Fayette County,16
+Indiana,Floyd County,4
+Indiana,Fountain County,3
+Indiana,Franklin County,13
+Indiana,Fulton County,16
+Indiana,Gibson County,28
+Indiana,Grant County,14
+Indiana,Greene County,13
+Indiana,Hamilton County,24
+Indiana,Hancock County,24
+Iowa,Adams County,27
+Iowa,Appanoose County,11
+Iowa,Audubon County,4
+Iowa,Benton County,14
+Iowa,Black Hawk County,74
+Iowa,Boone County,5
+Iowa,Bremer County,19
+Iowa,Buchanan County,8
+Iowa,Buena Vista County,18
+Iowa,Butler County,131
+Iowa,Calhoun County,52
+Georgia,Douglas County,78
+Georgia,Early County,2
+Georgia,Effingham County,3
+Georgia,Elbert County,8
+Georgia,Emanuel County,11
+Georgia,Evans County,6
+Georgia,Fannin County,5
+Georgia,Fayette County,7
+Georgia,Floyd County,4
+Georgia,Forsyth County,34
+Georgia,Franklin County,6
+Georgia,Fulton County,22
+Indiana,Harrison County,20
+Indiana,Hendricks County,56
+Indiana,Henry County,9
+Indiana,Howard County,26
+Indiana,Huntington County,18
+Indiana,Jackson County,66
+Indiana,Jasper County,14
+Indiana,Jay County,5
+Indiana,Jefferson County,131
+Indiana,Jennings County,5
+Indiana,Johnson County,12
+Indiana,Knox County,27
+Indiana,Kosciusko County,26
+Indiana,La Porte County,35
+Iowa,Carroll County,6
+Iowa,Cass County,15
+Iowa,Cedar County,6
+Iowa,Cerro Gordo County,29
+Iowa,Cherokee County,17
+Iowa,Chickasaw County,9
+Iowa,Clarke County,12
+Iowa,Clay County,5
+Iowa,Clayton County,18
+Iowa,Clinton County,28
+Iowa,Crawford County,29
+Iowa,Dallas County,1311
+Iowa,Davis County,93
+Iowa,Decatur County,12
+Georgia,Gilmer County,4
+Georgia,Glascock County,1
+Georgia,Glynn County,34
+Georgia,Gordon County,11
+Georgia,Greene County,17
+Georgia,Gwinnett County,260
+Georgia,Habersham County,3
+Georgia,Hall County,63
+Georgia,Hancock County,23
+Georgia,Haralson County,8
+Georgia,Harris County,1615
+Georgia,Hart County,8
+Georgia,Heard County,3
+Georgia,Henry County,40
+Indiana,Lagrange County,7
+Indiana,Lake County,168
+Indiana,Lawrence County,55
+Indiana,Madison County,4
+Indiana,Marion County,5
+Indiana,Marshall County,22
+Indiana,Martin County,6
+Indiana,Miami County,44
+Indiana,Monroe County,52
+Indiana,Montgomery County,26
+Indiana,Morgan County,34
+Iowa,Delaware County,64
+Iowa,Des Moines County,26
+Iowa,Dickinson County,14
+Iowa,Dubuque County,48
+Iowa,Emmet County,19
+Iowa,Fayette County,16
+Iowa,Floyd County,4
+Iowa,Franklin County,13
+Iowa,Fremont County,22
+Iowa,Greene County,13
+Iowa,Grundy County,10
+Iowa,Guthrie County,12
+Iowa,Hamilton County,24
+Iowa,Hancock County,24
+Georgia,Houston County,40
+Georgia,Jackson County,65
+Georgia,Jasper County,19
+Georgia,Jefferson County,35
+Georgia,Jenkins County,1
+Georgia,Johnson County,4
+Georgia,Jones County,31
+Georgia,Lamar County,30
+Georgia,Laurens County,19
+Georgia,Liberty County,22
+Indiana,Newton County,5
+Indiana,Noble County,9
+Indiana,Ohio County,1
+Indiana,Orange County,75
+Indiana,Owen County,3
+Indiana,Parke County,3
+Indiana,Perry County,12
+Indiana,Pike County,13
+Indiana,Porter County,63
+Indiana,Posey County,6
+Indiana,Pulaski County,10
+Indiana,Putnam County,14
+Iowa,Hardin County,14
+Iowa,Harrison County,20
+Iowa,Henry County,9
+Iowa,Howard County,26
+Iowa,Humboldt County,36
+Iowa,Ida County,15
+Iowa,Iowa County,12
+Iowa,Jackson County,66
+Iowa,Jasper County,14
+Iowa,Jefferson County,131
+Iowa,Johnson County,12
+Florida,Alachua County,56
+Georgia,Long County,1
+Georgia,Lowndes County,30
+Georgia,Lumpkin County,10
+Georgia,Macon County,5
+Georgia,Madison County,81
+Georgia,Marion County,5
+Georgia,Mcduffie County,10
+Georgia,Meriwether County,5
+Indiana,Randolph County,8
+Indiana,Ripley County,12
+Indiana,Rush County,8
+Indiana,Scott County,73
+Indiana,Shelby County,30
+Indiana,Spencer County,5
+Indiana,St Joseph County,108
+Indiana,Starke County,6
+Indiana,Steuben County,10
+Iowa,Jones County,8
+Iowa,Keokuk County,13
+Iowa,Kossuth County,13
+Iowa,Lee County,7
+Iowa,Linn County,118
+Iowa,Louisa County,5
+Iowa,Lucas County,262
+Iowa,Lyon County,7
+Florida,Baker County,4
+Florida,Bay County,50
+Florida,Bradford County,3
+Florida,Brevard County,249
+Florida,Broward County,687
+Florida,Calhoun County,52
+Florida,Charlotte County,75
+Florida,Citrus County,62
+Florida,Clay County,5
+Georgia,Monroe County,14
+Georgia,Montgomery County,15
+Georgia,Morgan County,34
+Georgia,Murray County,9
+Georgia,Muscogee County,89
+Georgia,Newton County,4
+Georgia,Oconee County,33
+Georgia,Oglethorpe County,3
+Georgia,Paulding County,10
+Georgia,Peach County,4
+Indiana,Sullivan County,29
+Indiana,Switzerland County,1
+Indiana,Tippecanoe County,70
+Indiana,Tipton County,8
+Indiana,Union County,7
+Indiana,Vanderburgh County,92
+Indiana,Vermillion County,6
+Indiana,Vigo County,43
+Iowa,Madison County,4
+Iowa,Mahaska County,17
+Iowa,Marion County,5
+Iowa,Marshall County,22
+Iowa,Mills County,2
+Iowa,Mitchell County,5
+Iowa,Monona County,11
+Iowa,Monroe County,52
+Iowa,Montgomery County,26
+Iowa,Muscatine County,25
+Iowa,Obrien County,14
+Iowa,Osceola County,67
+Iowa,Page County,15
+Florida,Collier County,118
+Florida,Columbia County,29
+Florida,De Soto County,7
+Florida,Dixie County,2
+Florida,Duval County,12
+Florida,Escambia County,110
+Florida,Flagler County,53
+Florida,Franklin County,13
+Florida,Gadsden County,10
+Georgia,Pickens County,46
+Georgia,Pike County,13
+Georgia,Polk County,31
+Georgia,Pulaski County,134
+Georgia,Putnam County,16
+Georgia,Richmond County,70
+Georgia,Rockdale County,27
+Georgia,Schley County,0
+Georgia,Screven County,4
+Georgia,Spalding County,24
+Georgia,Stephens County,4
+Georgia,Stewart County,4
+Georgia,Sumter County,35
+Georgia,Talbot County,25
+Indiana,Wabash County,19
+Indiana,Warrick County,20
+Indiana,Washington County,26
+Indiana,Wayne County,707
+Indiana,Wells County,19
+Indiana,White County,7
+Indiana,Whitley County,5
+Iowa,Palo Alto County,17
+Iowa,Plymouth County,195
+Iowa,Pocahontas County,9
+Iowa,Polk County,18
+Iowa,Pottawattamie County,51
+Iowa,Poweshiek County,22
+Iowa,Ringgold County,10
+Iowa,Sac County,10
+Iowa,Scott County,73
+Iowa,Shelby County,30
+Iowa,Sioux County,33
+Iowa,Story County,39
+Florida,Gilchrist County,4
+Florida,Glades County,0
+Florida,Gulf County,4
+Florida,Hamilton County,24
+Florida,Hardee County,8
+Florida,Hendry County,4
+Florida,Hernando County,76
+Florida,Highlands County,46
+Florida,Hillsborough County,543
+Florida,Holmes County,5
+Florida,Indian River County,69
+Florida,Jackson County,66
+Florida,Jefferson County,131
+Georgia,Taliaferro County,0
+Georgia,Tattnall County,5
+Georgia,Taylor County,55
+Georgia,Thomas County,5
+Georgia,Tift County,17
+Georgia,Toombs County,17
+Georgia,Towns County,5
+Georgia,Treutlen County,5
+Georgia,Troup County,13
+Georgia,Twiggs County,2
+Iowa,Tama County,10
+Iowa,Taylor County,56
+Iowa,Union County,7
+Iowa,Van Buren County,17
+Iowa,Wapello County,23
+Iowa,Warren County,26
+Iowa,Washington County,26
+Iowa,Wayne County,707
+Iowa,Webster County,5
+Iowa,Winnebago County,105
+Iowa,Winneshiek County,14
+Iowa,Woodbury County,57
+Iowa,Worth County,5
+Iowa,Wright County,8
+Florida,Lafayette County,6
+Florida,Lake County,168
+Florida,Lee County,7
+Florida,Leon County,3
+Florida,Levy County,9
+Florida,Madison County,4
+Florida,Manatee County,140
+Florida,Marion County,5
+Florida,Martin County,6
+Florida,Miami-Dade County,1220
+Florida,Monroe County,52
+Georgia,Union County,11
+Georgia,Upson County,12
+Georgia,Walker County,24
+Georgia,Walton County,12
+Georgia,Ware County,18
+Georgia,Washington County,18
+Georgia,Wayne County,38
+Georgia,Webster County,9
+Georgia,White County,38
+Georgia,Whitfield County,23
+Georgia,Wilkes County,10
+Georgia,Wilkinson County,5
+Florida,Nassau County,279
+Florida,Okaloosa County,58
+Florida,Okeechobee County,9
+Florida,Orange County,75
+Florida,Osceola County,67
+Florida,Palm Beach County,653
+Florida,Pasco County,171
+Florida,Pinellas County,557
+Florida,Polk County,18
+Florida,Putnam County,14
+Florida,Saint Johns County,63
+Florida,Saint Lucie County,128
+Florida,Santa Rosa County,26
+Florida,Sarasota County,271
+Florida,Seminole County,97
+Florida,Sumter County,47
+Florida,Suwannee County,16
+Florida,Taylor County,56
+Florida,Union County,7
+Florida,Volusia County,234
+Florida,Wakulla County,3
+Florida,Walton County,12
+Florida,Washington County,26
+Illinois,Adams County,79
+Illinois,Alexander County,9
+Illinois,Bond County,9
+Illinois,Boone County,62
+Illinois,Bureau County,16
+Illinois,Calhoun County,34
+Illinois,Carroll County,6
+Illinois,Cass County,14
+Illinois,Champaign County,64
+Illinois,Christian County,31
+Illinois,Clark County,523
+Illinois,Clay County,65
+Illinois,Clinton County,8
+Illinois,Coles County,30
+Illinois,Cook County,1813
+Illinois,Crawford County,50
+Illinois,Cumberland County,40
+Illinois,DeKalb County,37
+Illinois,Dewitt County,4
+Illinois,Douglas County,78
+Illinois,DuPage County,441
+Illinois,Edgar County,9
+Illinois,Effingham County,3
+Illinois,Fayette County,7
+Illinois,Ford County,21
+Illinois,Franklin County,6
+Illinois,Fulton County,22
+Illinois,Gallatin County,6
+Illinois,Greene County,17
+Illinois,Grundy County,10
+Illinois,Hamilton County,24
+Illinois,Hancock County,23
+Illinois,Hardin County,14
+Illinois,Henderson County,8
+Illinois,Henry County,40
+Illinois,Iroquois County,18
+Illinois,Jackson County,65
+Illinois,Jasper County,19
+Illinois,Jefferson County,35
+Illinois,Jersey County,11
+Illinois,Jo Daviess County,16
+Illinois,Johnson County,4
+Illinois,Kane County,5
+Illinois,Kankakee County,43
+Illinois,Kendall County,17
+Illinois,Knox County,168
+Illinois,La Salle County,37
+Illinois,Lake County,12
+Illinois,Lawrence County,54
+Illinois,Lee County,233
+Illinois,Livingston County,14
+Illinois,Logan County,16
+Illinois,Macon County,5
+Illinois,Macoupin County,18
+Illinois,Madison County,81
+Illinois,Marion County,5
+Illinois,Marshall County,21
+Illinois,Mason County,7
+Illinois,Massac County,8
+Illinois,Mcdonough County,23
+Illinois,Mchenry County,96
+Illinois,Mclean County,55
+Illinois,Menard County,1
+Illinois,Mercer County,9
+Illinois,Monroe County,14
+Illinois,Montgomery County,15
+Illinois,Moultrie County,11
+Illinois,Ogle County,20
+Illinois,Peoria County,109
+Illinois,Perry County,8
+Illinois,Pike County,13
+Illinois,Pope County,0
+Illinois,Pulaski County,134
+Illinois,Putnam County,16
+Illinois,Randolph County,37
+Illinois,Richland County,70
+Illinois,Rock Island County,57
+Illinois,Saint Clair County,50
+Illinois,Saline County,16
+Illinois,Sangamon County,81
+Illinois,Schuyler County,1
+Illinois,Shelby County,15
+Illinois,Stark County,175
+Illinois,Stephenson County,29
+Illinois,Tazewell County,61
+Illinois,Union County,11
+Illinois,Vermilion County,26
+Illinois,Wabash County,19
+Illinois,Warren County,17
+Illinois,Washington County,18
+Illinois,Wayne County,38
+Illinois,White County,38
+Illinois,Whiteside County,36
+Illinois,Will County,153
+Illinois,Williamson County,23
+Illinois,Winnebago County,104
+Illinois,Woodford County,16
+California,Alameda County,678
+California,Alpine County,0
+California,Amador County,14
+California,Butte County,112
+California,Calaveras County,11
+California,Colusa County,8
+California,Contra Costa County,512
+California,Del Norte County,6
+California,El Dorado County,86
+California,Fresno County,298
+California,Glenn County,8
+California,Humboldt County,36
+California,Imperial County,30
+California,Inyo County,8
+California,Kern County,163
+California,Kings County,392
+California,Lake County,168
+California,Los Angeles County,4075
+California,Madera County,25
+California,Marin County,123
+California,Mariposa County,5
+California,Mendocino County,37
+California,Merced County,42
+California,Mono County,0
+California,Monterey County,121
+California,Napa County,87
+California,Nevada County,39
+California,Orange County,75
+California,Placer County,248
+California,Plumas County,7
+California,Riverside County,708
+California,Sacramento County,822
+California,San Benito County,8
+California,San Bernardino County,673
+California,San Diego County,1080
+California,San Francisco County,297
+California,San Joaquin County,222
+California,San Luis Obispo County,119
+California,San Mateo County,328
+California,Santa Barbara County,188
+California,Santa Clara County,542
+California,Santa Cruz County,81
+California,Shasta County,82
+California,Sierra County,0
+California,Siskiyou County,17
+California,Solano County,164
+California,Sonoma County,254
+California,Stanislaus County,165
+California,Sutter County,37
+California,Tehama County,23
+California,Trinity County,3
+California,Tulare County,84
+California,Tuolumne County,15
+California,Ventura County,401
+California,Yolo County,55
+California,Yuba County,12
+Arkansas,Arkansas County,11
+Arkansas,Ashley County,11
+Arkansas,Baxter County,28
+Arkansas,Benton County,3
+Arkansas,Boone County,62
+Arkansas,Bradley County,32
+Arkansas,Carroll County,6
+Arkansas,Chicot County,7
+Arkansas,Clark County,523
+Arkansas,Clay County,65
+Arkansas,Cleburne County,9
+Arkansas,Cleveland County,98
+Arkansas,Columbia County,42
+Arkansas,Conway County,5
+Arkansas,Craighead County,41
+Arkansas,Crawford County,50
+Arkansas,Crittenden County,14
+Arkansas,Cross County,6
+Arkansas,Dallas County,1306
+Arkansas,Desha County,8
+Arkansas,Drew County,14
+Arkansas,Faulkner County,29
+Arkansas,Franklin County,6
+Arkansas,Fulton County,22
+Arkansas,Garland County,72
+Arkansas,Grant County,33
+Arkansas,Greene County,17
+Arkansas,Hempstead County,5
+Arkansas,Hot Spring County,13
+Arkansas,Howard County,7
+Arkansas,Independence County,25
+Arkansas,Izard County,7
+Arkansas,Jackson County,65
+Arkansas,Jefferson County,35
+Arkansas,Johnson County,4
+Arkansas,Lawrence County,54
+Arkansas,Lee County,233
+Arkansas,Lincoln County,15
+Arkansas,Little River County,6
+Arkansas,Logan County,16
+Arkansas,Lonoke County,19
+Arkansas,Madison County,81
+Arkansas,Marion County,5
+Arkansas,Miller County,23
+Arkansas,Mississippi County,17
+Arkansas,Monroe County,14
+Arkansas,Montgomery County,15
+Arkansas,Nevada County,39
+Arkansas,Newton County,4
+Arkansas,Ouachita County,16
+Arkansas,Perry County,8
+Arkansas,Phillips County,9
+Arkansas,Pike County,13
+Alaska,Anchorage County,98
+Arkansas,Poinsett County,13
+Arkansas,Polk County,31
+Arkansas,Pope County,0
+Arkansas,Prairie County,4
+Arkansas,Pulaski County,134
+Arkansas,Randolph County,37
+Arkansas,Saint Francis County,14
+Arkansas,Saline County,16
+Arkansas,Scott County,71
+Arkansas,Searcy County,2
+Arkansas,Sebastian County,49
+Arkansas,Sevier County,5
+Arkansas,Sharp County,8
+Alaska,Dillingham County,1
+Alaska,Fairbanks North Star County,26
+Alaska,Juneau County,16
+Alaska,Kenai Peninsula County,28
+Alaska,Ketchikan Gateway County,6
+Alaska,Kodiak Island County,5
+Alaska,Matanuska Susitna County,21
+Alaska,Wrangell Petersburg County,0
+Arkansas,Stone County,4
+Arkansas,Union County,11
+Arkansas,Van Buren County,8
+Arkansas,Washington County,18
+Arkansas,White County,38
+Arkansas,Woodruff County,11
+Arkansas,Yell County,11
+Arizona,Apache County,5
+Arizona,Cochise County,31
+Arizona,Coconino County,27
+Arizona,Gila County,25
+Arizona,Graham County,5
+Arizona,La Paz County,2
+Arizona,Maricopa County,1949
+Arizona,Mohave County,68
+Arizona,Navajo County,17
+Arizona,Pima County,407
+Arizona,Pinal County,55
+Arizona,Santa Cruz County,81
+Arizona,Yavapai County,114
+Arizona,Yuma County,34
+Alabama,Autauga County,12
+Alabama,Baldwin County,17
+Alabama,Barbour County,9
+Alabama,Bibb County,105
+Alabama,Blount County,20
+Alabama,Bullock County,2
+Alabama,Butler County,93
+Alabama,Calhoun County,34
+Alabama,Chambers County,13
+Alabama,Cherokee County,63
+Alabama,Chilton County,14
+Alabama,Choctaw County,5
+Alabama,Clarke County,12
+Alabama,Clay County,65
+Alabama,Cleburne County,9
+Alabama,Coffee County,23
+Alabama,Colbert County,19
+Alabama,Conecuh County,8
+Alabama,Coosa County,1
+Alabama,Covington County,5
+Alabama,Crenshaw County,3
+Alabama,Cullman County,25
+Alabama,Dale County,16
+Alabama,Dallas County,1306
+Alabama,De Kalb County,22
+Alabama,Elmore County,15
+Alabama,Escambia County,109
+Alabama,Etowah County,45
+Alabama,Fayette County,7
+Alabama,Franklin County,6
+Alabama,Geneva County,11
+Alabama,Greene County,17
+Alabama,Hale County,7
+Alabama,Henry County,40
+Alabama,Houston County,40
+Alabama,Jackson County,65
+Alabama,Jefferson County,35
+Alabama,Lamar County,30
+Alabama,Lauderdale County,34
+Alabama,Lawrence County,54
+Alabama,Lee County,233
+Alabama,Limestone County,10
+Alabama,Lowndes County,30
+Alabama,Macon County,5
+Alabama,Madison County,81
+Alabama,Marengo County,12
+Alabama,Marion County,5
+Alabama,Marshall County,21
+Alabama,Mobile County,156
+Alabama,Monroe County,14
+Alabama,Montgomery County,15
+Alabama,Morgan County,34
+Alabama,Perry County,8
+Alabama,Pickens County,46
+Alabama,Pike County,13
+Alabama,Randolph County,37
+Alabama,Russell County,14
+Alabama,Saint Clair County,50
+Alabama,Shelby County,15
+Alabama,Sumter County,35
+Alabama,Talladega County,24
+Alabama,Tallapoosa County,10
+Alabama,Tuscaloosa County,53
+Alabama,Walker County,24
+Alabama,Washington County,18
+Alabama,Wilcox County,7
+Alabama,Winston County,6
