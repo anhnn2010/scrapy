@@ -19,6 +19,10 @@ class Caring1Spider(scrapy.Spider):
     def parse_summary(self, response):
         list_cities = response.xpath("//*[@id='cities']//div[@class='lrtr-list-item']")
         state = response.xpath("//ol[@class='breadcrumb']//a/text()")[-1].get()
+        # ### inspect response by scrapy shell
+        # from scrapy.shell import inspect_response
+        # inspect_response(response, self)
+        # ###
         # city = list_cities[0]
         for city in list_cities:
             city_name = city.xpath(".//a/text()").get()
